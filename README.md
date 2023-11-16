@@ -4,7 +4,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![Alt text](image.png)
+![image](https://github.com/Rituraj27/Frontend-Mentor-Order-Summary/assets/104149080/ec9c843e-afd8-4d1e-a5a6-4a16b4eea261)
+
 
 ### Links
 
